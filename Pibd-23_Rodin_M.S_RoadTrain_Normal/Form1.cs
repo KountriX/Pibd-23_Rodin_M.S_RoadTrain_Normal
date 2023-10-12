@@ -5,6 +5,13 @@ namespace Pibd_23_Rodin_M.S_RoadTrain_Normal
         public Form1()
         {
             InitializeComponent();
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //Тест коммит
+
         }
     }
 }
