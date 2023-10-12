@@ -1,6 +1,6 @@
 ﻿namespace Pibd_23_Rodin_M.S_RoadTrain_Normal
 {
-    partial class Form1
+    partial class RoadTrain
     {
         /// <summary>
         ///  Required designer variable.

@@ -1,11 +1,11 @@
 namespace Pibd_23_Rodin_M.S_RoadTrain_Normal
 {
-    public partial class Form1 : Form
+    public partial class RoadTrain : Form
     {
-        public Form1()
+        public RoadTrain()
         {
             InitializeComponent();
-            
+
         }
 
         private void Form1_Load(object sender, EventArgs e)

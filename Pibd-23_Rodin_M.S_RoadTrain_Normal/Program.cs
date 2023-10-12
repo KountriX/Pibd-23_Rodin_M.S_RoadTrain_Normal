@@ -11,7 +11,7 @@ namespace Pibd_23_Rodin_M.S_RoadTrain_Normal
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new RoadTrain());
         }
     }
 }
